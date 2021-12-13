@@ -9,7 +9,7 @@ Osaka Institute of Technology Hirakata Campus, bld. 1, 6th floor
 - 教員居室： 615研究室 (Office)
 - ゼミ室  ：1601ゼミ室 (Seminar room)  
   
-  ![Floor Map]('./floor.jpg')  
+  ![Floor Map](https://ykama615.github.io/floor.jpg)  
   
 ***
 
