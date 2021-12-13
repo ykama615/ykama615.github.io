@@ -52,7 +52,6 @@ subtitle: 学生研究
 - 修士　2名（M2，M1）
 - IS科　9名（B4）
 - IC科　1名（B4）
-  
 - 短期研修生　1名  
  2 months internship from SIIT, Thailand  
  ※June, July / 2019
@@ -85,8 +84,7 @@ subtitle: 学生研究
 ### メンバー構成
 
 - 修士　2名（M1）
-- IS科　10名（B4）  
-  
+- IS科　10名（B4）
 - 短期研修生　2名  
  2 months internship from SIIT, Thailand  
  ※June, July / 2018
