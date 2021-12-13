@@ -2,7 +2,7 @@
 layout: post
 title: 日本人間工学会第62回大会
 subtitle: 運営／発表／連名発表
-tags: [conference]
+tags: [conference] [teacher]
 comments: false
 ---
 Google siteからGithub Pagesへの移行をテスト中です．
