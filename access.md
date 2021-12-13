@@ -24,10 +24,6 @@ Faculty of Information Science and Technology, Osaka Institute of Technology
 
 ## アクセス | Access
 
-  
-[Official Website]('http://www.oit.ac.jp/is/oitaccess/access.html'）
-
-
 ### 京阪電車　樟葉（くずは）駅よりバス | By bus from Kuzuha St. (Keihan Line)  
 
 
