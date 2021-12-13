@@ -8,7 +8,7 @@ subtitle: アクセス
 Osaka Institute of Technology Hirakata Campus, bld. 1, 6th floor  
 - 教員居室： 615研究室 (Office)
 - ゼミ室  ：1601ゼミ室 (Seminar room)
-  ![Floor Map]( ./floor.jpg )
+  ![Floor Map]('./floor.jpg')
 
 ***
 
@@ -24,7 +24,7 @@ Faculty of Information Science and Technology, Osaka Institute of Technology
 ## アクセス | Access
 
 
-[Official Website]( http://www.oit.ac.jp/is/oitaccess/access.html ）
+[Official Website]('http://www.oit.ac.jp/is/oitaccess/access.html'）
 
 
 ### 京阪電車　樟葉（くずは）駅よりバス | By bus from Kuzuha St. (Keihan Line)  
