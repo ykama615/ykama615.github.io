@@ -8,7 +8,7 @@ subtitle: アクセス
 Osaka Institute of Technology Hirakata Campus, bld. 1, 6th floor  
 - 教員居室： 615研究室 (Office)
 - ゼミ室  ：1601ゼミ室 (Seminar room)
-  ![Floor Map](./floor.jpg)
+  ![Floor Map]( ./floor.jpg )
 
 ***
 
@@ -24,14 +24,15 @@ Faculty of Information Science and Technology, Osaka Institute of Technology
 ## アクセス | Access
 
 
-[Official Website](http://www.oit.ac.jp/is/oitaccess/access.html）
+[Official Website]( http://www.oit.ac.jp/is/oitaccess/access.html ）
 
 
 ### 京阪電車　樟葉（くずは）駅よりバス | By bus from Kuzuha St. (Keihan Line)  
 
 
 - 樟葉駅4番のりば  
-[1] [2] [2A] [大2] [大2A]系統　大阪工大・ポエムノール北山　行  
+[1] [2] [2A] [大2] [大2A]系統  
+大阪工大・ポエムノール北山　行  
 北山中央または大阪工大下車
 
 - Bus stop No.4  
@@ -45,7 +46,8 @@ Get off： Kitayama Chuo or Osaka Kodai
 ### JR東西線　長尾駅よりバス | By bus from Nagao St. (JR Tozai Line)
 
 - 長尾駅1番のりば
-[27] [29] [37] [直通]系統　北山中央 経由 摂南大学枚方キャンパス　行  
+[27] [29] [37] [直通]系統  
+北山中央 経由 摂南大学枚方キャンパス　行    
 北山中央下車  
 
 - Bus stop No.1  
