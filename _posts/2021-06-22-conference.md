@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 日本人間工学会第62回大会
-subtitle: 運営および発表について
+subtitle: 運営／発表／連名発表
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
