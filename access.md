@@ -6,8 +6,8 @@ subtitle: アクセス
 ## 校舎内案内図 | Building Maps
 大阪工業大学情報科学部(枚方キャンパス)　1号館6階  
 Osaka Institute of Technology Hirakata Campus, bld. 1, 6th floor  
-　教員居室： 615研究室 (Office)  
-　ゼミ室  ：1601ゼミ室 (Seminar room)    
+　・教員居室： 615研究室 (Office)  
+　・ゼミ室  ：1601ゼミ室 (Seminar room)    
   
 ![Floor Map](https://ykama615.github.io/floor.jpg)  
   
