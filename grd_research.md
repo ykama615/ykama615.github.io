@@ -3,19 +3,32 @@ layout: page
 title: 学生研究（Students' Researches）
 ---
 
-# 2019年度
+# 2021年度
 ## メンバー構成
-
-    修士　 2名（M2，M1）
-    IS科　 9名（B4）
-    IC科　 1名（B4）
-
-    短期研修生　1名（2 months internship from SIIT, Thailand）
-    ※June, July / 2019
 
 ## 研究内容
 
-    [修士論文]　赤外線カメラを用いた非接触呼吸計測の手法の評価
+## 卒業後進路
+
+# 2020年度
+## メンバー構成
+
+## 研究内容
+
+## 卒業後進路
+
+# 2019年度
+## メンバー構成
+修士　 2名（M2，M1）  
+IS科　 9名（B4）  
+IC科　 1名（B4）  
+  
+短期研修生　1名（2 months internship from SIIT, Thailand）  
+※June, July / 2019
+
+## 研究内容
+
+|修士論文|赤外線カメラを用いた非接触呼吸計測の手法の評価
 
 
     [学士論文]　RGBカメラを用いた視線検知
