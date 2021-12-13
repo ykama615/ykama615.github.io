@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 学生研究
-subtitle:S tudents' Researches
+subtitle: Students' Researches
 ---
 
 ## 2021年度
