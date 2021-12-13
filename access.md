@@ -7,9 +7,10 @@ subtitle: アクセス
 大阪工業大学情報科学部(枚方キャンパス)　1号館6階  
 Osaka Institute of Technology Hirakata Campus, bld. 1, 6th floor  
 - 教員居室： 615研究室 (Office)
-- ゼミ室  ：1601ゼミ室 (Seminar room)
-  ![Floor Map]('./floor.jpg')
-
+- ゼミ室  ：1601ゼミ室 (Seminar room)  
+  
+  ![Floor Map]('./floor.jpg')  
+  
 ***
 
 ## 住所 | Address
@@ -23,7 +24,7 @@ Faculty of Information Science and Technology, Osaka Institute of Technology
 
 ## アクセス | Access
 
-
+  
 [Official Website]('http://www.oit.ac.jp/is/oitaccess/access.html'）
 
 
