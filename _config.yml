@@ -15,7 +15,8 @@ author: KAMAKURA Yoshiyuki
 
 navbar-links:
   Advisor: "aboutme"
-  Students' Researches: "grd_research"
+  Researches: "grd_research"
+  Seminor: ""
   Address/Access: "access"
 # --- Resources: --- #
 # ---    - Beautiful Jekyll: "https://beautifuljekyll.com" --- #
