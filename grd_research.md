@@ -1,7 +1,7 @@
 
 ---
 layout: page
-title: 学生研究（Research）
+title: Students' Researches
 ---
 
 # 2019年度
