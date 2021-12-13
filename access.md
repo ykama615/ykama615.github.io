@@ -17,7 +17,9 @@ Osaka Institute of Technology Hirakata Campus, bld. 1, 6th floor
 Faculty of Information Science and Technology, Osaka Institute of Technology  
 1-79-1 Kitayama, Hirakata-City, Osaka, 573-0196, JAPAN  
 
-
+{% googlemaps 34.8412958,135.7029191 15 100% 250px %}
+  大阪工業大学情報科学部, 34.8412958,135.7029191
+{% endgooglemaps %}
 
 ***
 
