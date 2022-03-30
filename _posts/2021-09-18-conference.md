@@ -39,7 +39,7 @@ comments: false
 {: .box-note}
 p.1
 
-<br><br><br>
+<br><br>
 <hr>
 
 ### ● 連名発表の情報
