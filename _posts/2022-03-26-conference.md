@@ -5,22 +5,21 @@ subtitle: 連名発表
 tags: [conference,teacher]
 comments: false
 ---
-Google siteからGithub Pagesへの移行をテスト中です．
+## [教員] 国際学会で連名発表を行いました．
 
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
+### AUTHORS
 {: .box-note}
-**Note:** This is a notification box.
+Kenzaburo Miyawaki, Hiroshi Igaki, Yoshiyuki Kamakura, Takao Jinno, Yuta Muraki, Kiyoshi Honda, Makoto J. Hirayama
 
-### Warning
+### DATE
+{: .box-note}
+2022-03-26
 
-{: .box-warning}
-**Warning:** This is a warning box.
+### CONFERENCE
+{: .box-note}
+The 10th IIAE International Conference on Industrial Application Engineering 2022(ICIAE2022) 
 
-### Error
+### PAGE
+{: .box-note}
+pp.203-207
 
-{: .box-error}
-**Error:** This is an error box.
