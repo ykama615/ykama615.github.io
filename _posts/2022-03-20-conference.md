@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 第4回 AYAがんの医療と支援のあり方研究会学術集会
-subtitle: 連名発表
+subtitle: 教員が連名発表を行いました
 tags: [conference,teacher]
 comments: false
 ---
