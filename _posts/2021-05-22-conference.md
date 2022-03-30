@@ -11,7 +11,8 @@ comments: false
 
 ### ● 運営の情報
 
-[日本人間工学会第62回大会において実行委員として運営のサポートを行いました．](https://www.oit.ac.jp/japanese/topics/?i=7704)
+日本人間工学会第62回大会において実行委員として運営のサポートを行いました．<br>
+|[開催報告](https://www.oit.ac.jp/japanese/topics/?i=7704)|<br>
 
 <br>
 <br>
