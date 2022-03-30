@@ -6,8 +6,12 @@ tags: [conference,teacher]
 comments: false
 ---
 ## [教員] 学術集会で連名発表を行いました．
+<br>
+<hr>
 
 ### TITLE
+
+{: .box-note}
 AYA世代入院患者の学校生活参加支援 ～テレプレセンスロボットの活用可能性と課題～
 
 
