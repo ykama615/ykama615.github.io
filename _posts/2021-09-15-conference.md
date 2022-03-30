@@ -6,6 +6,8 @@ tags: [conference,teacher]
 comments: false
 ---
 ## [教員] 国際学会で連名発表を行いました．
+<br>
+<hr>
 
 ### TITLE
 
