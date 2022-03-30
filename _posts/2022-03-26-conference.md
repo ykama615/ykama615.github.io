@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The 10th IIAE International Conference on Industrial Application Engineering 2022(ICIAE2022)
+title: The 10th IIAE International Conference on Industrial Application Engineering 2022(ICIAE2022) 
 subtitle: 連名発表
 tags: [conference,teacher]
 comments: false
