@@ -7,8 +7,10 @@ comments: false
 ---
 ## [教員] 国際学会で連名発表を行いました．
 
-### AUTHORS
+### TITLE
+Online learning environment for robotics programming using ROS simulator
 
+### AUTHORS
 {: .box-note}
 Kenzaburo Miyawaki<br>
 Hiroshi Igaki<br>
@@ -24,13 +26,10 @@ Makoto J. Hirayama
 2022-03-26
 
 
-### CONFERENCE
-
+### PROCEEDINGS
 {: .box-note}
-The 10th IIAE International Conference on Industrial Application Engineering 2022(ICIAE2022) 
-
+Proceedings of the 10th IIAE International Conference on Industrial Application Engineering 2022
 
 ### PAGE
-
 {: .box-note}
 pp.203-207
