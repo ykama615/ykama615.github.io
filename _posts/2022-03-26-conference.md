@@ -27,3 +27,7 @@ comments: false
 
 {: .box-note} pp.203-207
 
+
+
+{: .box-note}
+**Note:** This is a notification box.
