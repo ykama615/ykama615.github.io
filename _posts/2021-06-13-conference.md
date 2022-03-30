@@ -5,7 +5,7 @@ subtitle: 教員が発表および連名発表を行いました
 tags: [conference,teacher]
 comments: false
 ---
-## [教員] 学会の全国大会で発表および連名発表を行いました．
+## [教員] 国際学会で発表および連名発表を行いました．
 
 <hr>
 
