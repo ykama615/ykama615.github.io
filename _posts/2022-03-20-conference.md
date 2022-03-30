@@ -10,13 +10,13 @@ comments: false
 ### AUTHORS
 
 {: .box-note}
-大須賀美恵子
-多田雄真
-中田佳世
-石川淳
-榎原毅
-赤井愛
-鎌倉快之
+大須賀美恵子\n
+多田雄真\n
+中田佳世\n
+石川淳\n
+榎原毅\n
+赤井愛\n
+鎌倉快之\n
 
 
 ### DATE
@@ -33,5 +33,5 @@ comments: false
 ### PAGE
 
 {: .box-note}
-120
+p.120
 
