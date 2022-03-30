@@ -9,6 +9,7 @@ comments: false
 
 ### TITLE
 
+{: .box-note}
 [A Study on Region of Interest in Remote PPG and an Attempt to Eliminate False Positive Results Using SVM Classification](https://ieeexplore.ieee.org/document/9573945)
 
 ### AUTHORS
