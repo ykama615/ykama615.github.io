@@ -10,8 +10,13 @@ comments: false
 ### AUTHORS
 
 {: .box-note}
-Kenzaburo Miyawaki, Hiroshi Igaki, Yoshiyuki Kamakura, Takao Jinno, Yuta Muraki, Kiyoshi Honda, Makoto J. Hirayama
-
+Kenzaburo Miyawaki<br>
+Hiroshi Igaki<br>
+Yoshiyuki Kamakura<br>
+Takao Jinno<br>
+Yuta Muraki<br>
+Kiyoshi Honda<br>
+Makoto J. Hirayama
 
 ### DATE
 
@@ -28,4 +33,4 @@ The 10th IIAE International Conference on Industrial Application Engineering 202
 ### PAGE
 
 {: .box-note}
-203-207
+pp.203-207
