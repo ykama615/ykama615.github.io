@@ -8,9 +8,11 @@ comments: false
 ## [教員] 国際学会で連名発表を行いました．
 
 ### TITLE
+
 [A Study on Region of Interest in Remote PPG and an Attempt to Eliminate False Positive Results Using SVM Classification](https://ieeexplore.ieee.org/document/9573945)
 
 ### AUTHORS
+
 {: .box-note}
 Hiroki Takeuchi<br>
 Mieko Ohsuga<br>
@@ -23,9 +25,11 @@ Yoshiyuki Kamakura
 
 
 ### PROCEEDINGS
+
 {: .box-note}
 2021 IEEE International Conference on Artificial Intelligence in Engineering and Technology (IICAIET)
 
 ### PAGE
+
 {: .box-note}
 pp.1-5
