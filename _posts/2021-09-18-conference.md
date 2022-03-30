@@ -7,6 +7,7 @@ comments: false
 ---
 ## [教員] 学会の全国大会で発表および連名発表を行いました．
 
+<hr>
 ### ● 筆頭発表の情報
 
 ### TITLE
@@ -37,7 +38,8 @@ comments: false
 {: .box-note}
 p.1
 
-
+<br><br><br>
+<hr>
 ### ● 連名発表の情報
 
 ### TITLE
