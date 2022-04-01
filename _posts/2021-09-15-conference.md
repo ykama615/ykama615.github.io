@@ -1,11 +1,11 @@
 ---
 layout: post
 title: International Conference on Artificial Intelligence in Engineering and Technology 2021 (IICAIET2021)
-subtitle: 教員が連名発表を行いました
+subtitle: <教員> 連名発表を行いました
 tags: [conference,teacher]
 comments: false
 ---
-## [教員] 国際学会で連名発表を行いました．
+## 教員が国際学会で連名発表を行いました．
 <br>
 <hr>
 
