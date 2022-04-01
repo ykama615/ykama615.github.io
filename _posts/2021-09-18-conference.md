@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 第26回 日本顔学会大会（フォーラム顔学2021）
-subtitle: <教員> 発表および連名発表を行いました
+subtitle: 【教員】 発表および連名発表を行いました
 tags: [conference,teacher]
 comments: false
 ---
