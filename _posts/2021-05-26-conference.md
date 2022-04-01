@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 自動車技術会2021年春季大会
-subtitle: 教員が連名発表を行いました
+subtitle: <教員> 連名発表を行いました
 tags: [conference,teacher]
 comments: false
 ---
-## [教員] 学会の全国大会で連名発表を行いました．
+## 教員が学会の全国大会で連名発表を行いました．
 <br>
 <hr>
 
