@@ -15,6 +15,7 @@ comments: false
 Online learning environment for robotics programming using ROS simulator
 
 ### AUTHORS
+
 {: .box-note}
 Kenzaburo Miyawaki<br>
 Hiroshi Igaki<br>
@@ -31,9 +32,11 @@ Makoto J. Hirayama
 
 
 ### PROCEEDINGS
+
 {: .box-note}
 Proceedings of the 10th IIAE International Conference on Industrial Application Engineering 2022
 
 ### PAGE
+
 {: .box-note}
 pp.203-207
