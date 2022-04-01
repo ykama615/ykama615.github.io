@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 自動車技術会2021年春季大会
-subtitle: <教員> 連名発表を行いました
+subtitle: 【教員】 連名発表を行いました
 tags: [conference,teacher]
 comments: false
 ---
