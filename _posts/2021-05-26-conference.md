@@ -16,6 +16,7 @@ comments: false
 
 
 ### AUTHORS
+
 {: .box-note}
 西本隆平<br>
 大須賀美恵子<br>
@@ -23,15 +24,18 @@ comments: false
 
 
 ### DATE
+
 {: .box-note}
 2021-05-26
 
 
 ### CONFERENCE
+
 {: .box-note}
 自動車技術会学術講演会予稿集（春）
 
 ### PAGE
+
 {: .box-note}
 pp.1-2
 
