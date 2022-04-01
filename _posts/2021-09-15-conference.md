@@ -1,7 +1,7 @@
 ---
 layout: post
 title: International Conference on Artificial Intelligence in Engineering and Technology 2021 (IICAIET2021)
-subtitle: <教員> 連名発表を行いました
+subtitle: 【教員】 連名発表を行いました
 tags: [conference,teacher]
 comments: false
 ---
