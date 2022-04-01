@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 日本人間工学会第62回大会
-subtitle: 教員が運営，発表および連名発表を行いました
+subtitle: <教員> 運営，発表および連名発表を行いました
 tags: [conference,teacher]
 comments: false
 ---
-## [教員] 学会の全国大会で運営，発表および連名発表を行いました．
+## 教員が学会の全国大会で運営，発表および連名発表を行いました．
 <br>
 <hr>
 
