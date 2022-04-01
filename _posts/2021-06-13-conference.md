@@ -1,11 +1,11 @@
 ---
 layout: post
 title: The 21st Triennial Congress of the International Ergonomics Association (IEA2021)
-subtitle: 教員が発表および連名発表を行いました
+subtitle: <教員> 発表および連名発表を行いました
 tags: [conference,teacher]
 comments: false
 ---
-## [教員] 国際学会で発表および連名発表を行いました．
+## 教員が国際学会で発表および連名発表を行いました．
 
 <hr>
 
