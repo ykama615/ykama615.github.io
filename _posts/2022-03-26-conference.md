@@ -34,6 +34,7 @@ Makoto J. Hirayama
 ### PROCEEDINGS
 
 {: .box-note}
+the 10th IIAE International Conference on Industrial Application Engineering 2022<br>
 Proceedings of the 10th IIAE International Conference on Industrial Application Engineering 2022
 
 ### PAGE
