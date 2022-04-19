@@ -32,7 +32,8 @@ Mieko Ohsuga
 ### CONFERENCE
 
 {: .box-note}
-Proceedings of the 21st Congress of the International Ergonomics Association (IEA 2021)）
+the 21st Congress of the International Ergonomics Association (IEA 2021)<br>
+Proceedings of the 21st Congress of the International Ergonomics Association (IEA 2021)
 
 ### PAGE
 
@@ -66,7 +67,8 @@ Haruya Koba
 ### CONFERENCE
 
 {: .box-note}
-Proceedings of the 21st Congress of the International Ergonomics Association (IEA 2021)）
+the 21st Congress of the International Ergonomics Association (IEA 2021)<br>
+Proceedings of the 21st Congress of the International Ergonomics Association (IEA 2021)
 
 ### PAGE
 
