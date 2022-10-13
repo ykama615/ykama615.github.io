@@ -25,7 +25,8 @@ IS科　12名（B4）
 ## 2021年度
 ### メンバー構成
 
-- IS科　6名（B4）
+{: .box-note}
+IS科　6名（B4）
 
 ### 研究内容
 
@@ -48,8 +49,9 @@ IS科　12名（B4）
 ## 2020年度
 ### メンバー構成
 
-- 修士　1名（M2）
-- IS科　7名（B4）
+{: .box-note}
+修士　1名（M2）<br>
+IS科　7名（B4）
 
 ### 研究内容
 
@@ -76,12 +78,12 @@ IS科　12名（B4）
 ## 2019年度
 ### メンバー構成
 
-- 修士　2名（M2，M1）
-- IS科　9名（B4）
-- IC科　1名（B4）
-- 短期研修生　1名  
- 2 months internship from SIIT, Thailand  
- ※June, July / 2019
+{: .box-note}
+修士　2名（M2，M1）<br>
+IS科　9名（B4）<br>
+IC科　1名（B4）<br>
+短期研修生　1名
+ - 2 months internship from SIIT, Thailand (※June, July / 2019)
 
 ### 研究内容  
 
@@ -110,11 +112,11 @@ IS科　12名（B4）
 ## 2018年度
 ### メンバー構成
 
-- 修士　2名（M1）
-- IS科　10名（B4）
-- 短期研修生　2名  
- 2 months internship from SIIT, Thailand  
- ※June, July / 2018
+{: .box-note}
+修士　2名（M1）<br>
+IS科　10名（B4）<br>
+短期研修生　2名
+ - 2 months internship from SIIT, Thailand (※June, July / 2018)
 
 ### 研究内容
 
@@ -142,9 +144,10 @@ IS科　12名（B4）
 ## 2017年度
 ### メンバー構成
 
-- 研究生　1名（BS）
-- IS科　7名（B4）
-- IM科　1名（B4）
+{: .box-note}
+研究生　1名（BS）<br>
+IS科　7名（B4）<br>
+IM科　1名（B4）
 
 ### 研究内容
 
@@ -170,7 +173,8 @@ IS科　12名（B4）
 ## 2016年度
 ### メンバー構成
 
-- IS科　2名（B4）
+{: .box-note}
+IS科　2名（B4）
 
 ### 研究内容
 
