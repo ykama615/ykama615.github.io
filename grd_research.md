@@ -82,7 +82,7 @@ IS科　7名（B4）
 修士　2名（M2，M1）<br>
 IS科　9名（B4）<br>
 IC科　1名（B4）<br>
-短期研修生　1名
+短期研修生　1名 <br>
 →2 months internship from SIIT, Thailand (※June, July / 2019)
 
 ### 研究内容  
@@ -115,7 +115,7 @@ IC科　1名（B4）<br>
 {: .box-note}
 修士　2名（M1）<br>
 IS科　10名（B4）<br>
-短期研修生　2名
+短期研修生　2名 <br>
 →2 months internship from SIIT, Thailand (※June, July / 2018)
 
 ### 研究内容
