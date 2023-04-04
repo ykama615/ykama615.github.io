@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Advisor
+title: Professor
 subtitle: 指導教員
 ---
 
