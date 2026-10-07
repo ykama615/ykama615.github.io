@@ -26,7 +26,7 @@ jobs:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
           NOTION_PAGE_ID: ${{ secrets.NOTION_PAGE_ID }}
         run: |
-          npx notion-to-gh-pages --page-id $NOTION_PAGE_ID --token $NOTION_TOKEN --out-dir dist
+          npx @sdrn/notion-to-gh-pages --page-id $NOTION_PAGE_ID --token $NOTION_TOKEN --out-dir dist
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
