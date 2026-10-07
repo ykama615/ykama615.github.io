@@ -1,0 +1,38 @@
+name: Deploy Notion to GitHub Pages
+
+on:
+  schedule:
+    - cron: '0 * * * *' # 1時間ごとにNotionから自動取得
+  workflow_dispatch: # 手動実行ボタン
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Export Notion Page
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_PAGE_ID: ${{ secrets.NOTION_PAGE_ID }}
+        run: |
+          npx notion-to-gh-pages --page-id $NOTION_PAGE_ID --token $NOTION_TOKEN --out-dir dist
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './dist'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
